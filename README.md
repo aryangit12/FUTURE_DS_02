@@ -24,4 +24,4 @@ Cost & Engagement Metrics → Tracks Average CPC, Spend, CTR, and Impressions.
 Campaign Data from Marketing_Analytics_Dataset by Slidescope
 imported via Excel/CSV or direct connectors into Power BI.
 
-**6. Screenshot** link - 
+**6. Screenshot** link - https://github.com/aryangit12/FUTURE_DS_02/blob/main/Social%20media%20Dashboard.png
